@@ -6,7 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm start`<img width="956" alt="Screenshot 2024-01-12 205300" src="https://github.com/ashishverma1999/SignIn-page-using-react-mui-Purity-ui-dashboard/assets/146584123/5a512000-f6dc-424b-a772-b71f9a8f8c8f">
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
